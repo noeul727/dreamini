@@ -1,0 +1,58 @@
+.logo{
+    color: #232758;
+    font-size: medium;
+    font-weight: 200;
+    text-align: center;
+}
+.main_page{
+    width: 393px;
+    height: 400px;
+    color: #444444;
+    font-size: medium;
+    margin: 0;
+}
+.text_1{
+    color: #444444;
+    font-size: large;
+    font-weight: 200;
+}
+.text3{
+    color: #444444;
+    font-size: small;
+    font-weight: 100;
+    line-height: 10px;
+}
+.text4{
+    color: #444444;
+    font-size: small;
+    font-weight: 100;
+    word-spacing: 10px;
+    line-height: -30px;
+}
+.buy{
+    text-align: center;
+    background-color: #232758;
+    width: 376px;
+    height: 26px;
+    color: white;
+    margin: 0%;
+    font-size: small;
+    border-radius: 23px;
+    
+}
+.wish{
+    color: #444444;
+    font-size: small;
+
+}
+.list{
+    color: #444444;
+    font-size: small;
+    text-align: center;
+    
+}
+.img{
+    margin: 0;
+    width: fit-content;
+}
+
