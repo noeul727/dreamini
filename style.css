@@ -1,58 +1,84 @@
-.logo{
-    color: #232758;
-    font-size: medium;
-    font-weight: 200;
+.top_box{
+    background-color: yellow;
     text-align: center;
-}
-.main_page{
-    width: 393px;
-    height: 400px;
-    color: #444444;
-    font-size: medium;
-    margin: 0;
-}
-.text_1{
-    color: #444444;
+    color: black;
+    text-align: center;
     font-size: large;
-    font-weight: 200;
-}
-.text3{
-    color: #444444;
-    font-size: small;
-    font-weight: 100;
-    line-height: 10px;
-}
-.text4{
-    color: #444444;
-    font-size: small;
-    font-weight: 100;
-    word-spacing: 10px;
-    line-height: -30px;
-}
-.buy{
-    text-align: center;
-    background-color: #232758;
-    width: 376px;
-    height: 26px;
-    color: white;
+    font-weight: 500;
+    padding: 24px;
+    width: 393px;
     margin: 0%;
-    font-size: small;
-    border-radius: 23px;
-    
-}
-.wish{
-    color: #444444;
-    font-size: small;
 
 }
-.list{
-    color: #444444;
-    font-size: small;
+.main_box{
+    color: #232758;
     text-align: center;
+    font-size: x-large;
+    font-weight: 700;
+    width: 100%;
+    margin: 0px;
+    position: relative;
     
 }
-.img{
-    margin: 0;
-    width: fit-content;
+.main_text{
+    color: #999999;
+    font-size: medium;
+    margin-left: 0%;
+    font-size: large;
+    font-weight: 400;
 }
+.main_text_2{
+    color: #999999;
+    font-size: small;
+    font-weight: 200;
+    background-color: rgb(186, 185, 187);
+    width: 90px;
+}
+.main_2_textbox{
+    color: #999999;
+    font-size: medium;
+    font-weight: 900;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 500;
+    padding: 10px;
+    
+    
+}.main_3_textbox{
+    text-align: center;
+    color: #555555;
+    font-size: large;
+    font-weight: 300;
+    word-spacing: 10px;
+    padding: 10px;
 
+}
+.main_box_text{
+    position: absolute;
+    left: 83px;
+    bottom: 7px;
+}
+.center{
+    background-color: rgb(254, 198, 198);
+    text-align: center;
+    color: white;
+    font-size: medium;
+    font-weight: 800;
+    width: 80px;
+    height: 80px;
+}
+.Weekly_Best{
+    color: #555555;
+    width: 200px;
+    text-align: center;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    isolation: isolate;
+}
+.Weekly_img{
+    margin: 0;
+    float: left;
+    
+    
+}
